@@ -1,60 +1,60 @@
 import React from 'react';
 import Meal from '../Meal/Meal';
-const dinnerMeals = [
+const breakfastMeals = [
     {
-        id: 29384,
-        img: "https://i.ibb.co/5FpY80r/dinner1.png",
+        id: 87639,
+        img: "https://i.ibb.co/8PKKqVc/breakfast1.png",
         name: "Healthy Meal Plan",
-        price: 65.99,
+        price: 23.99,
         text: "How we dream about our feature"
     },
     {
-        id: 34546,
-        img: "https://i.ibb.co/VxVSpVZ/dinner2.png",
+        id: 29876,
+        img: "https://i.ibb.co/68dJjzg/breakfast2.png",
         name: "Fried Chicken",
-        price: 57.30,
+        price: 10.30,
         text: "This shoe is one of the best shoe i ever wear"
     },
     {
-        id: 88776,
-        img: "https://i.ibb.co/qMMmNf0/dinner3.png",
+        id: 73976,
+        img: "https://i.ibb.co/94wrHzc/breakfast3.png",
         name: "Fried Chicken",
-        price: 38.48,
+        price: 30.88,
         text: "This shoe is one of the best shoe i ever wear"
     },
     {
-        id: 88834,
-        img: "https://i.ibb.co/g9hdFTL/dinner4.png",
+        id: 97865,
+        img: "https://i.ibb.co/V9hvCpK/breakfast4.png",
         name: "Fried Chicken",
-        price: 89.49,
+        price: 40.99,
         text: "This shoe is one of the best shoe i ever wear"
     },
     {
-        id: 56564,
-        img: "https://i.ibb.co/zm4y7Jj/dinner5.png",
+        id: 12345,
+        img: "https://i.ibb.co/b10kBwV/breakfast5.png",
         name: "Fried Chicken",
-        price: 159.99,
+        price: 199.99,
         text: "This shoe is one of the best shoe i ever wear"
     },
     {
-        id: 87654,
-        img: "https://i.ibb.co/Xbp6S79/dinner6.png",
+        id: 87629,
+        img: "https://i.ibb.co/Vpdr6nr/breakfast6.png",
         name: "Fried Chicken",
-        price: 68.99,
+        price: 100,
         text: "This shoe is one of the best shoe i ever wear"
     }
 ]
 
-const Dinner = () => {
+const Breakfast = () => {
     return (
         <div>
             <div className='grid grid-cols-3 gap-10'>
                 {
-                    dinnerMeals.map(meal => <Meal key={meal.id} meal={meal}></Meal>)
+                    breakfastMeals.map(meal => <Meal key={meal.id} meal={meal}></Meal>)
                 }
             </div>
         </div>
     );
 };
 
-export default Dinner;
+export default Breakfast;

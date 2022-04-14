@@ -2,6 +2,5 @@
     background-image: url(../../../images/bannerbackground.png);
     height: 90vh;
     background-repeat: no-repeat;
-    background-size: 104%;
-    margin-left: -80px;
+    background-size: cover;
 }
