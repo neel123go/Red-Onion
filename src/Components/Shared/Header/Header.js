@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div className='h-20 px-28 flex justify-between items-center'>
             <div>
-                <Link to='/home'><img className='w-36' src={Logo} alt="" /></Link>
+                <Link to='/'><img className='w-36' src={Logo} alt="" /></Link>
             </div>
             <div>
                 <nav className='flex items-center'>
