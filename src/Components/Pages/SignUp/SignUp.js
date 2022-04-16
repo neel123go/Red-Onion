@@ -5,12 +5,6 @@ import auth from '../../../Firebase.init';
 import { EyeIcon } from '@heroicons/react/solid';
 
 const SignUp = () => {
-    const [userInfo, setUserInfo] = useState({
-        name: '',
-        email: '',
-        password: '',
-        confirmPassword: ''
-    });
     const [errors, setErrors] = useState({
         name: '',
         email: '',
@@ -34,7 +28,7 @@ const SignUp = () => {
             setErrors({ ...errors, general: 'Filed must not be empty' });
         } else if (name.length < 3) {
             setErrors({ ...errors, name: 'Name must be at least 3 characters' });
-        } else if (!/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
+        } else if (!/\S+@\S+\.\S+/.test(email)) {
             setErrors({ ...errors, email: 'Invalid email. Please provide a valid email', name: '' });
         } else if (password.length < 8) {
             setErrors({ ...errors, password: 'Password must be at least 8 characters', email: '', name: '' });
@@ -42,20 +36,23 @@ const SignUp = () => {
             setErrors({ ...errors, confirmPassword: "Password doesn't matched", email: '', name: '', password: '' });
         } else {
             setErrors({ ...errors, general: '', confirmPassword: '' });
-            setUserInfo({ email: email, password: password });
-            createUserWithEmailAndPassword(userInfo.email, userInfo.password);
+            createUserWithEmailAndPassword(email, password)
+                .then(() => {
+                    console.log('Sign Up Successfully')
+                }).catch(error => {
+                    console.error('Error neel', error);
+                })
         }
     }
 
     useEffect(() => {
         if (user) {
-            navigate('/')
+            navigate('/');
+        } else {
+            setErrors({ ...errors, general: error });
         }
     }, [user]);
 
-    if (error) {
-        setErrors({ ...errors, general: error });
-    }
 
     return (
         <div className='w-1/2 mx-auto'>
