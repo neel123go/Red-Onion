@@ -15,7 +15,7 @@ const MealDetails = () => {
         <div className='flex justify-between items-center mx-40 py-20'>
             <div className='w-1/2'>
                 <h1 className='text-5xl font-semibold text-slate-800'>Light Breakfast</h1>
-                <p className='my-8'>{singleMeal[0]?.details}</p>
+                <p className='my-8 w-4/5 text-slate-500'>{singleMeal[0]?.details}</p>
                 <div className='flex'>
                     <h2 className='mr-5 text-4xl text-slate-900'>${price}</h2>
                     <div className='flex w-30 items-center border rounded-3xl justify-between px-6 py-2 border-gray-400'>
