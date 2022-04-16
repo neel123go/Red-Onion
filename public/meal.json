@@ -5,7 +5,7 @@
         "name": "Healthy Meal Plan",
         "price": 23.99,
         "category": "breakfast",
-        "text": "How we dream about our feature"
+        "details": "Spicy jalapeno ham hock corned beef buffalo cupim meatloaf. Pancetta ground round rump, capicola meatloaf pork chop doner pastrami buffalo. Pork burgdoggen meatloaf, tongue picanha ball tip fatback kielbasa shoulder. Tenderloin cupim pancetta turducken ball tip, shankle biltong tongue. Short loin porchetta beef, venison sausage salami bacon doner kielbasa short ribs. Pancetta swine jerky t-bone. Spare ribs pastrami chicken short ribs chislic jerky pork belly andouille kevin meatball pork loin filet mignon."
     },
     {
         "id": 29876,
@@ -13,134 +13,134 @@
         "name": "Fried Chicken",
         "price": 10.30,
         "category": "breakfast",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Short loin turducken sausage brisket alcatra frankfurter biltong, spare ribs sirloin. Porchetta meatball brisket bresaola turducken, picanha bacon pastrami turkey. Strip steak rump chuck ribeye spare ribs cupim. Fatback venison jowl, sausage brisket tenderloin jerky tail chuck boudin t-bone. Pig burgdoggen spare ribs biltong, kielbasa shank t-bone swine meatball salami chicken picanha. Pork belly tail flank boudin alcatra, salami tenderloin buffalo short ribs shank brisket beef."
     },
     {
         "id": 73976,
         "img": "https://i.ibb.co/94wrHzc/breakfast3.png",
-        "name": "Fried Chicken",
+        "name": "Stuffed Parsnip & Pear Duck",
         "price": 30.88,
         "category": "breakfast",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Jowl fatback turkey tri-tip pork chop, pancetta burgdoggen filet mignon turducken ham hock tail. Ribeye filet mignon kielbasa, landjaeger shoulder strip steak meatloaf drumstick bacon cow doner tri-tip chislic hamburger. Jowl pastrami leberkas prosciutto t-bone. Filet mignon chicken strip steak, buffalo salami picanha cow chislic flank ball tip. Sausage andouille rump picanha ground round ham hock t-bone swine capicola pork chop meatloaf porchetta."
     },
     {
         "id": 97865,
         "img": "https://i.ibb.co/V9hvCpK/breakfast4.png",
-        "name": "Fried Chicken",
+        "name": "Marinated Coconut Yak",
         "price": 40.99,
         "category": "breakfast",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Corned beef beef ribs spare ribs short ribs kielbasa drumstick. Jowl corned beef andouille fatback drumstick shoulder rump pancetta kevin shank jerky strip steak short ribs ham hock porchetta. Turducken chuck prosciutto shank turkey boudin alcatra meatball chislic picanha pork bacon short loin. Shankle venison pork chop pork belly corned beef drumstick sirloin short ribs chicken strip steak pork beef ribs porchetta. Jerky spare ribs tail doner, brisket tenderloin biltong buffalo shankle salami short loin swine sirloin ribeye. Salami pastrami meatloaf bacon swine brisket, meatball pork chop pork belly alcatra ribeye."
     },
     {
         "id": 12345,
         "img": "https://i.ibb.co/b10kBwV/breakfast5.png",
-        "name": "Fried Chicken",
+        "name": "Pecan and Peach Milk",
         "price": 199.99,
         "category": "breakfast",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Spicy jalapeno bacon ipsum dolor amet kevin hamburger drumstick shankle kielbasa, tongue short loin swine tri-tip brisket shoulder leberkas landjaeger boudin. Kevin drumstick tri-tip porchetta ground round jerky shank, andouille turkey biltong sausage. Biltong meatloaf shankle kevin corned beef short loin, jerky cupim. Pork chop swine tri-tip prosciutto, picanha drumstick pig boudin doner tail ham landjaeger ball tip."
     },
     {
         "id": 87629,
         "img": "https://i.ibb.co/Vpdr6nr/breakfast6.png",
-        "name": "Fried Chicken",
+        "name": "Cranberry and Vanilla Bombe",
         "price": 100,
         "category": "breakfast",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Ball tip tail salami beef. Turducken ham hock venison pancetta, corned beef drumstick pig buffalo doner prosciutto kielbasa strip steak bresaola jerky pastrami. Turkey pastrami meatloaf frankfurter. Leberkas fatback brisket shoulder bacon. Ribeye bacon buffalo filet mignon burgdoggen flank. Ribeye venison pig meatball salami t-bone cow fatback jowl bacon. Ham frankfurter alcatra flank, boudin venison salami kevin filet mignon ball tip doner strip steak sirloin corned beef."
     },
     {
         "id": 29384,
         "img": "https://i.ibb.co/5FpY80r/dinner1.png",
-        "name": "Healthy Meal Plan",
+        "name": "Brined Tomatoes & Potatoes",
         "price": 65.99,
         "category": "dinner",
-        "text": "How we dream about our feature"
+        "details": "Venison bresaola tongue kielbasa pastrami. Flank cupim burgdoggen cow pastrami shankle boudin salami turducken bacon corned beef. Burgdoggen frankfurter shoulder bacon. Doner turkey leberkas rump, drumstick pig chuck spare ribs tri-tip flank ham hock filet mignon beef ribs. Buffalo shoulder venison frankfurter, tongue biltong drumstick short ribs. Hamburger shoulder tri-tip chuck, tail ham hock rump flank leberkas cow biltong turducken short loin. Fatback hamburger doner shankle alcatra filet mignon biltong buffalo landjaeger pork belly."
     },
     {
         "id": 34546,
         "img": "https://i.ibb.co/VxVSpVZ/dinner2.png",
-        "name": "Fried Chicken",
+        "name": "Pressure-Fried Lemongrass Trout",
         "price": 57.30,
         "category": "dinner",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Ground round turkey shoulder filet mignon meatloaf meatball kielbasa pork belly jowl. Bresaola turducken pig short loin corned beef sirloin chislic venison andouille tongue landjaeger cupim pork chop. Salami t-bone chislic strip steak tri-tip. Shoulder sausage andouille landjaeger tri-tip alcatra kevin picanha leberkas strip steak kielbasa venison. Rump pork chop beef ribs fatback cow."
     },
     {
         "id": 88776,
         "img": "https://i.ibb.co/qMMmNf0/dinner3.png",
-        "name": "Fried Chicken",
+        "name": "Grilled Saffron Duck",
         "price": 38.48,
         "category": "dinner",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Brisket cow chuck, salami venison capicola flank pancetta frankfurter biltong sirloin short ribs. Ribeye chislic landjaeger kielbasa prosciutto leberkas. Ground round ribeye rump short loin ball tip boudin. Ground round shoulder flank drumstick ribeye ham hock pig beef. Drumstick fatback doner short loin, shoulder venison short ribs flank boudin alcatra pork frankfurter ground round salami. Swine venison jerky tail shank. Beef ribs cow swine alcatra."
     },
     {
         "id": 88834,
         "img": "https://i.ibb.co/g9hdFTL/dinner4.png",
-        "name": "Fried Chicken",
+        "name": "Praline and Pistachio Cookies",
         "price": 89.49,
         "category": "dinner",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Shankle meatball pork pancetta boudin strip steak turkey porchetta turducken filet mignon short loin biltong. Turducken shank picanha pancetta kevin pork chop t-bone pig chicken landjaeger ball tip filet mignon pork loin swine. Drumstick jerky leberkas meatball buffalo salami ham. Kielbasa fatback sausage cupim. Cupim boudin capicola hamburger. Kevin pig salami, leberkas buffalo meatball jowl chuck ham hock shoulder. Frankfurter chislic pastrami buffalo."
     },
     {
         "id": 56564,
         "img": "https://i.ibb.co/zm4y7Jj/dinner5.png",
-        "name": "Fried Chicken",
+        "name": "Cardamom Candy",
         "price": 159.99,
         "category": "dinner",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Capicola short ribs corned beef beef bacon andouille jowl pork chop pastrami frankfurter spare ribs meatball brisket sausage swine. Pancetta short loin chuck corned beef ball tip tri-tip, pork venison. Spare ribs picanha shankle ground round, tail pancetta cupim cow landjaeger burgdoggen prosciutto tongue turducken pork chop drumstick. Filet mignon flank tail pastrami."
     },
     {
         "id": 87654,
         "img": "https://i.ibb.co/Xbp6S79/dinner6.png",
-        "name": "Fried Chicken",
+        "name": "Stir-Fried Cheese & Taco",
         "price": 68.99,
         "category": "dinner",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Chicken pork chop salami alcatra, short ribs burgdoggen pig corned beef. Cupim pork belly tongue chislic prosciutto spare ribs tenderloin hamburger beef. Chislic chuck strip steak, turducken pork venison biltong drumstick ribeye pastrami flank. Doner chuck pancetta pig shankle hamburger brisket burgdoggen. T-bone pork belly jerky short ribs. Porchetta jerky landjaeger burgdoggen, sirloin chislic shoulder drumstick pork belly pork loin ribeye tenderloin short loin meatloaf."
     },
     {
         "id": 88839,
         "img": "https://i.ibb.co/wgd6gvJ/lunch1.png",
-        "name": "Healthy Meal Plan",
+        "name": "Cooked Salty & Sour Prawns",
         "price": 44.99,
         "category": "lunch",
-        "text": "How we dream about our feature"
+        "details": "Alcatra buffalo rump, spare ribs bresaola hamburger ribeye ball tip kevin. Short loin pork chop tenderloin ham bacon landjaeger porchetta venison boudin corned beef. Shoulder ground round andouille shankle sausage. Kevin doner picanha, bacon landjaeger turducken cupim capicola tri-tip ribeye shoulder salami pork chislic. Meatloaf ham tenderloin, flank cow swine leberkas prosciutto sausage drumstick beef ribs turkey chicken filet mignon. Pancetta prosciutto t-bone pork loin tail shankle doner jerky meatball shank fatback. Prosciutto chislic kielbasa, venison corned beef chicken shank kevin landjaeger."
     },
     {
         "id": 24354,
         "img": "https://i.ibb.co/0CCbLgS/lunch2.png",
-        "name": "Fried Chicken",
+        "name": "Infused Lemongrass Alligator",
         "price": 40.30,
         "category": "lunch",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "T-bone jerky sirloin pancetta, turkey alcatra short ribs meatball. Swine short loin meatloaf cupim landjaeger flank ball tip boudin chislic tenderloin ham drumstick. Turducken buffalo meatball, fatback jowl pig landjaeger ham hock sirloin strip steak biltong ground round meatloaf. Boudin meatloaf bacon, andouille tri-tip cupim kielbasa burgdoggen. Tongue shank frankfurter, ball tip pork chop flank jerky chislic strip steak capicola shankle chicken shoulder leberkas ribeye."
     },
     {
         "id": 93849,
         "img": "https://i.ibb.co/CsxsCSV/lunch4.png",
-        "name": "Fried Chicken",
+        "name": "Stuffed Fennel & Lime Beef",
         "price": 35.85,
         "category": "lunch",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Fatback t-bone jerky sausage. Hamburger tenderloin cow pork loin, buffalo beef strip steak. Salami cupim ham venison pastrami kevin swine jerky rump pork chop. Short loin cow spare ribs, tail corned beef beef pancetta doner. Biltong strip steak pastrami shoulder, brisket boudin beef fatback ball tip meatball rump."
     },
     {
         "id": 22883,
         "img": "https://i.ibb.co/CsxsCSV/lunch4.png",
-        "name": "Fried Chicken",
+        "name": "Slow-Cooked Lime Yak",
         "price": 60,
         "category": "lunch",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Swine hamburger venison strip steak biltong leberkas short loin corned beef sausage shoulder tri-tip pig shankle. Chuck brisket bresaola, flank ball tip pork belly burgdoggen capicola chicken picanha boudin turducken shankle. Fatback chicken flank, tail pork chop meatball ham cow shankle short loin shoulder. Andouille jowl sirloin pastrami pork loin, hamburger capicola bacon porchetta drumstick beef ribs. Ham hock doner buffalo sirloin jowl. Chuck pork loin pancetta chicken doner swine fatback. Cow sirloin ham hock tail pancetta sausage ham jowl pork loin hamburger brisket salami tenderloin flank."
     },
     {
         "id": 77676,
         "img": "https://i.ibb.co/CPbwjDX/lunch5.png",
-        "name": "Fried Chicken",
+        "name": "Tenderized Paprika Oysters",
         "price": 69.99,
         "category": "lunch",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Strip steak pork loin filet mignon burgdoggen corned beef, meatball boudin flank chislic pancetta meatloaf ground round jerky ham hock. Doner leberkas tongue, cow frankfurter pastrami hamburger andouille bresaola t-bone strip steak. Tail kielbasa sirloin tri-tip. Tail short loin pancetta spare ribs strip steak capicola, porchetta tenderloin. Ham pork chop boudin tri-tip. Venison jowl pancetta bacon pork chop bresaola fatback salami. Short ribs ham venison, bresaola leberkas jerky pork belly tail alcatra turducken jowl capicola tongue."
     },
     {
         "id": 23453,
         "img": "https://i.ibb.co/XbC3nC5/lunch6.png",
-        "name": "Fried Chicken",
+        "name": "Marinated Salted Lamb",
         "price": 120,
         "category": "lunch",
-        "text": "This shoe is one of the best shoe i ever wear"
+        "details": "Biltong t-bone short ribs shoulder kielbasa. Ground round swine cow chislic kevin short ribs biltong boudin ribeye bresaola filet mignon. Pork cow andouille beef ribs turkey chislic pancetta jowl pork loin strip steak shankle shank sirloin. Tongue bresaola short ribs corned beef frankfurter flank filet mignon turkey beef biltong swine pastrami strip steak. Burgdoggen shank rump alcatra meatloaf, drumstick beef ball tip tri-tip pork belly frankfurter tail."
     }
 ]
